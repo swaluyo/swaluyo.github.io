@@ -24,7 +24,7 @@ Experienced IT professional with background in:
 - Network Infrastructure
 - System Administration
 - Security Operations
-- Database Administration
+- Database (SQL) Administration
 - IT Operations
 
 Currently focusing on:

@@ -1,8 +1,19 @@
-# SWaluyo
+# Swaluyo
 
 ## IT Infrastructure | Operations | Data Processing | Cybersecurity | Cloud | Automation
 
 Welcome to my professional portfolio.
+
+---
+
+## Navigation
+
+- [About Me](#about-me)
+- [Core Skills](#core-skills)
+- [Featured Projects](#featured-projects)
+- [Current Learning](#current-learning)
+- [Tools & Technologies](#tools--technologies)
+- [Contact](#contact)
 
 ---
 
@@ -22,35 +33,63 @@ Currently focusing on:
 - Network Defense
 - Cloud Security
 - Security Automation
-- Data Processing (Analyst, Engineering & Science)
+- Data Engineering
 
 ---
 
 # Core Skills
 
-| Area | Skills |
+| Category | Skills |
 |---|---|
-| Networking | VLAN, Routing, Switching, ACL |
-| Security | Firewall, Hardening, Tunning, Monitoring |
-| Systems | Unix/AIX, Linux, Windows Server |
-| Cloud | Azure Fundamentals, AWS |
+| Networking | VLAN, Routing, Switching, ACL, NAT |
+| Security | Firewall, Hardening, Monitoring |
+| Systems | Linux, Windows Server |
+| Cloud | Azure Fundamentals |
 | Automation | Python, Bash, Git |
+| Analysis | Troubleshooting, Logs, Packet Analysis |
 
 ---
 
 # Featured Projects
 
+## Junior Cybersecurity Analyst
+Cisco cybersecurity learning portfolio.
+
+Status:
+```text
+In Progress
+```
+
+---
+
 ## Network Defense Lab
 Hands-on Cisco security labs.
 
+Topics:
+- ACL
+- VLAN Security
+- SSH
+- Port Security
+
+---
+
 ## Packet Analysis
-Wireshark traffic analysis and investigation.
+Wireshark packet analysis and investigation.
+
+Topics:
+- TCP Analysis
+- DNS Analysis
+- HTTP Investigation
+
+---
 
 ## Incident Response
 Security incident simulation and analysis.
 
-## Cloud Security
-Azure networking and cloud security learning.
+Topics:
+- Malware Investigation
+- Phishing Investigation
+- Log Analysis
 
 ---
 
@@ -58,9 +97,11 @@ Azure networking and cloud security learning.
 
 - Cisco Networking Academy
 - Junior Cybersecurity Analyst
+- Network Defense
 - Endpoint Security
 - Python for Security
 - Git & GitHub
+- Cloud Security
 
 ---
 
@@ -74,13 +115,16 @@ Git & GitHub
 Python
 Azure
 VS Code
+SQL
 ```
 
 ---
 
-# GitHub
+# Certifications & Training
 
-https://github.com/YOUR-USERNAME
+- Cisco Networking Academy
+- Cybersecurity Learning Path
+- Infrastructure & Operations Experience
 
 ---
 
@@ -91,3 +135,36 @@ Build a professional cybersecurity portfolio through:
 - documentation
 - practical projects
 - continuous learning
+
+---
+
+# Future Focus
+
+- SOC Operations
+- Threat Hunting
+- SIEM
+- Cloud Security
+- DevSecOps
+- Automation
+
+---
+
+# Contact
+
+GitHub:
+```text
+https://github.com/swaluyo
+```
+
+GitHub Pages:
+```text
+https://swaluyo.github.io
+```
+
+---
+
+# Last Updated
+
+```text
+2026
+```

@@ -33,7 +33,7 @@ Currently focusing on:
 - Network Defense
 - Cloud Security
 - Security Automation
-- Data Engineering
+- Data Processing (Analyst, Engineering and Science)
 
 ---
 

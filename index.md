@@ -1,4 +1,4 @@
-# Swaluyo
+# SWaluyo
 
 ## IT Infrastructure | Operations | Data Processing | Cybersecurity | Cloud | Automation
 

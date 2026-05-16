@@ -1,6 +1,6 @@
 # Swaluyo
 
-## IT Infrastructure | Cybersecurity | Cloud | Automation
+## IT Infrastructure | Operations | Data Processing | Cybersecurity | Cloud | Automation
 
 Welcome to my professional portfolio.
 
@@ -22,7 +22,7 @@ Currently focusing on:
 - Network Defense
 - Cloud Security
 - Security Automation
-- Data Engineering
+- Data Processing (Analyst, Engineering & Science)
 
 ---
 

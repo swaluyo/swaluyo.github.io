@@ -31,9 +31,9 @@ Currently focusing on:
 | Area | Skills |
 |---|---|
 | Networking | VLAN, Routing, Switching, ACL |
-| Security | Firewall, Hardening, Monitoring |
-| Systems | Linux, Windows Server |
-| Cloud | Azure Fundamentals |
+| Security | Firewall, Hardening, Tunning, Monitoring |
+| Systems | Unix/AIX, Linux, Windows Server |
+| Cloud | Azure Fundamentals, AWS |
 | Automation | Python, Bash, Git |
 
 ---

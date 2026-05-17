@@ -2,7 +2,7 @@
 
 ## IT Infrastructure | Operations | Data Processing | Cybersecurity | Cloud | Automation
 
-Welcome to my professional portfolio.
+Welcome to my Professional Portfolio.
 
 ---
 
@@ -52,46 +52,79 @@ Currently focusing on:
 
 # Featured Projects
 
+---
 ## Junior Cybersecurity Analyst
+
 Cisco cybersecurity learning portfolio.
 
-Status:
+### Topics
+- Network Defense
+- Endpoint Security
+- SOC Operations
+- Security Fundamentals
+
+### Repository
+https://github.com/swaluyo/junior-cybersecurity-analyst
+
+### Status
 ```text
 In Progress
 ```
 
----
-
 ## Network Defense Lab
-Hands-on Cisco security labs.
 
-Topics:
+Hands-on Cisco security labs and configurations.
+
+### Topics
 - ACL
 - VLAN Security
-- SSH
+- SSH Hardening
 - Port Security
+- Firewall
 
----
+### Repository
+https://github.com/swaluyo/network-defense-lab
+
+### Status
+```text
+Planned
+```
 
 ## Packet Analysis
+
 Wireshark packet analysis and investigation.
 
-Topics:
+### Topics
 - TCP Analysis
 - DNS Analysis
 - HTTP Investigation
+- Suspicious Traffic Analysis
 
----
+### Repository
+https://github.com/swaluyo/packet-analysis
+
+### Status
+```text
+Planned
+```
 
 ## Incident Response
-Security incident simulation and analysis.
 
-Topics:
+Security incident simulation and investigation.
+
+### Topics
 - Malware Investigation
 - Phishing Investigation
 - Log Analysis
+- Security Reporting
 
----
+### Repository
+https://github.com/swaluyo/incident-response
+
+### Status
+```text
+Planned
+```
 
 # Current Learning
 

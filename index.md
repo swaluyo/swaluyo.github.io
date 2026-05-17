@@ -64,7 +64,7 @@ Cisco cybersecurity learning portfolio.
 - Security Fundamentals
 
 ### Repository
-https://github.com/swaluyo/junior-cybersecurity-analyst
+https://github.com/swaluyo/junior-cybersecurity-analyst 
 
 ### Status
 ```text
@@ -83,7 +83,7 @@ Hands-on Cisco security labs and configurations.
 - Firewall
 
 ### Repository
-https://github.com/swaluyo/network-defense-lab
+https://github.com/swaluyo/network-defense-lab 
 
 ### Status
 ```text
@@ -101,7 +101,7 @@ Wireshark packet analysis and investigation.
 - Suspicious Traffic Analysis
 
 ### Repository
-https://github.com/swaluyo/packet-analysis
+https://github.com/swaluyo/packet-analysis 
 
 ### Status
 ```text
@@ -119,7 +119,7 @@ Security incident simulation and investigation.
 - Security Reporting
 
 ### Repository
-https://github.com/swaluyo/incident-response
+https://github.com/swaluyo/incident-response 
 
 ### Status
 ```text
@@ -186,12 +186,12 @@ Build a professional cybersecurity portfolio through:
 
 GitHub:
 ```text
-https://github.com/swaluyo
+https://github.com/swaluyo 
 ```
 
 GitHub Pages:
 ```text
-https://swaluyo.github.io
+https://swaluyo.github.io 
 ```
 
 ---
